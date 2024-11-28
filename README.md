@@ -26,12 +26,12 @@ A simple, interactive chess game built with [insert technologies used, e.g., Jav
 
 1. Clone the repository:
    ```
-   git clone https://github.com/simranlotey/react-chess-game.git
+   git clone https://github.com/patelms35/Chess-board.git
    ```
 
 2. Navigate into the project directory:
    ```
-   cd react-chess-game
+   cd react-Chess-board
    ```
 
 3. Install the dependencies:
