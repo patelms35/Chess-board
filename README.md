@@ -31,7 +31,7 @@ A simple, interactive chess game built with [insert technologies used, e.g., Jav
 
 2. Navigate into the project directory:
    ```
-   cd react-Chess-board
+   cd Chess-board
    ```
 
 3. Install the dependencies:
