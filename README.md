@@ -5,7 +5,6 @@ A simple, interactive chess game built with [insert technologies used, e.g., Jav
 ---
 
 ## Features ✨
-- **Player vs Player:** Play with friends locally or online.
 - **Player vs AI:** Compete with a challenging AI opponent with adjustable difficulty levels.
 - **Interactive UI:** Intuitive drag-and-drop interface for moves.
 - **Real-Time Updates:** Automatic updates of moves and game status.
